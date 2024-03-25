@@ -1,8 +1,13 @@
 # VODerino
-Automatically open twitch streams in your favorite media player.
+Automatically open twitch streams when they go live.
+
+WHAT THIS APPLICATION DOES
+- VODerino "listens" to the chat for live notification messages from known chatbots like the streamelements and Prismlive chatbots. If one is seen, it will attempt to launch the stream in your set media player. If specified, the application will observe chat movement based on messages received on a minute by minute or second basis to predict if a channel went live.
 
 GENERAL SETUP INFORMATION
+- This application uses a CLI interface and is intended for use on Windows.
 - Unzip the applications from the zip package. Place the files in the same directory.
+- Open a commandline window and navigate to the location you saved the application.
 - The application will attempt to find the required information, such as your Chatterino directory in the initial setup menu. It is assumed required software is installed with their default settings.
 
 HOW TO USE
