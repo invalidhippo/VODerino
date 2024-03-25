@@ -7,8 +7,9 @@ WHAT THIS APPLICATION DOES
 GENERAL SETUP INFORMATION
 - This application uses a CLI interface and is intended for use on Windows.
 - Unzip the applications from the zip package. Place the files in the same directory.
-- Open a commandline window and navigate to the location you saved the application.
-- The application will attempt to find the required information, such as your Chatterino directory in the initial setup menu. It is assumed required software is installed with their default settings.
+- Open a commandline window and navigate to the location you saved the file.
+- Type VODerino, press enter.
+- The application will attempt to find the required information, such as your Chatterino logs directory in the initial setup menu. If it's not detected, open Chatterino -> Moderation -> Logs tab. Enable logging and copy the directory and paste it in at the required menu prompt. It is assumed required software is installed with their default settings.
 
 HOW TO USE
 - Follow the guided initial configuration menu.
