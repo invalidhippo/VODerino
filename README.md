@@ -4,20 +4,28 @@ If you’re a Twitch viewer who wants to catch streams the moment they go live, 
 Whether you want to watch streams live or save them for later, VODerino has you covered.
 
    ✓ Simple and direct — no API querying or unnecessary complexity.
+   
    ✓ Monitors chat activity to detect when a stream goes live.
+   
    ✓ Auto-launch streams in your preferred media player.
+   
    ✓ Stream recording option to capture and watch later.
+   
    ✓ Lightweight and easy to use. Set it and forget it.
     
 VODerino – The perfect tool for viewers who want to instantly catch a live stream and have the option to record for later.
 
-Setup Instructions:
+Setup Instructions (*This is a Windows CLI application*):
 
-    -This application uses a CLI interface and is intended for use on Windows.
+    
     -Unzip the contents of the package into a directory of your choice.
     -Open a Command Prompt window and navigate to the directory using the cd command.
     -Type "VODerino", then press Enter.
-    The guided initial setup will attempt to retrieve required settings, such as your Chatterino logs directory. If it's not automatically detected, open Chatterino and go to Settings → Moderation → Logs tab. Enable logging, then copy the log directory path and paste it when prompted.
+    
+    The guided initial setup will attempt to retrieve required settings, such as your Chatterino logs directory.
+    If it's not automatically detected, open Chatterino and go to Settings → Moderation → Logs tab.
+    Enable logging, then copy the log directory path and paste it when prompted.
+    
     Note: *Chatterino must be running and connected to the chat for this to work*
 
 Usage / Syntax:
