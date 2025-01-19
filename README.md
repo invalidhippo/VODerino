@@ -1,7 +1,7 @@
 # VODerino
 If you’re a Twitch viewer who wants to catch streams the moment they go live, VODerino is the tool for you. Unlike other tools that rely on external APIs, it’s designed to monitor Twitch chat activity locally in real-time. As soon as a streamer goes live, VODerino will automatically open the stream in your preferred video or media player, letting you dive straight into the action without a click. There’s also an option to record streams for future viewing.
 
-Whether you want to watch streams live or save them for later, VODerino has you covered.
+Whether you want to watch streams live or save them for later viewing, VODerino has you covered.
 
    ✓ Simple and direct — no API querying or unnecessary complexity.
    
