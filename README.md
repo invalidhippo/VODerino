@@ -13,20 +13,24 @@ Whether you want to watch streams live or save them for later viewing, VODerino 
    
    ✓ Lightweight and easy to use. Set it and forget it.
     
-VODerino – The perfect tool for viewers who want to instantly catch a live stream and have the option to record for later.
+VODerino – The perfect tool for viewers who want to instantly catch a live stream and have the option to record for later viewing.
+
+Requirements:<li class="masthead__menu-item"><a href="https://github.com/streamlink/streamlink">Streamlink</a></li><li class="masthead__menu-item"><a href="https://github.com/Chatterino/chatterino2">Chatterino</a></li>
+
 
 Setup Instructions (*This is a Windows CLI application*):
 
-    
+    -Download and install the required software listed above.
+    -Download the VODerino zip package from the releases section.
     -Unzip the contents of the package into a directory of your choice.
     -Open a Command Prompt window and navigate to the directory using the cd command.
     -Type "VODerino", then press Enter.
     
     The guided initial setup will attempt to retrieve required settings, such as your Chatterino logs directory.
     If it's not automatically detected, open Chatterino and go to Settings → Moderation → Logs tab.
-    Enable logging, then copy the log directory path and paste it when prompted.
+    Enable logging, then copy the log directory path and paste it where prompted.
     
-    Note: *Chatterino must be running and connected to the chat for this to work*
+Note: **_Chatterino must be running and connected with the specified channel's chat tab open for this to work_**
 
 Usage / Syntax:
 
@@ -39,7 +43,5 @@ Usage / Syntax:
 
         --Permintrig # -> Automatically launch the stream based on the number of messages seen per minute.
         --Persectrig # -> Automatically launch the stream based on the number of messages seen per second.
+
         
-REQUIREMENTS
-<li class="masthead__menu-item"><a href="https://github.com/streamlink/streamlink">Streamlink</a></li>
-<li class="masthead__menu-item"><a href="https://github.com/Chatterino/chatterino2">Chatterino</a></li>
