@@ -30,6 +30,8 @@ Setup Instructions (*This is a Windows CLI application*):
     If it's not automatically detected, open Chatterino and go to Settings → Moderation → Logs tab.
     Enable logging, then copy the log directory path and paste it where prompted.
     
+   ![explorer_Ktp8BHtYG4](https://github.com/user-attachments/assets/002375f8-e8dd-4d6e-ac66-e97114c2ddce)
+
 Note: **_Chatterino must be running and connected with the specified channel's chat tab open for this to work_**
 
 Usage / Syntax:
@@ -44,4 +46,5 @@ Usage / Syntax:
         --Permintrig # -> Automatically launch the stream based on the number of messages seen per minute.
         --Persectrig # -> Automatically launch the stream based on the number of messages seen per second.
 
-        
+   ![explorer_maPxW8fvdf](https://github.com/user-attachments/assets/6d173f4b-950d-4a7e-ac99-8ef725151887)
+
